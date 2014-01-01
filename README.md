@@ -1,5 +1,5 @@
-vagrant-laravel
-===============
+vagrant-laravel-plugins
+=======================
 
 Vagrant Plugin for interacting with laravel installations
 
